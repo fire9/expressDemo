@@ -1,0 +1,23 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "This is a demo with express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fire9/expressDemo.git"
+  },
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "author": "fire9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fire9/expressDemo/issues"
+  },
+  "homepage": "https://github.com/fire9/expressDemo#readme"
+}
