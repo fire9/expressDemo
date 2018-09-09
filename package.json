@@ -2,7 +2,7 @@
   "name": "expressdemo",
   "version": "1.0.0",
   "description": "This is a demo with express.js",
-  "main": "server.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/fire9/expressDemo/issues"
   },
-  "homepage": "https://github.com/fire9/expressDemo#readme"
+  "homepage": "https://github.com/fire9/expressDemo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
